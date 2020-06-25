@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/testCesar/static/css/main.e2904489.chunk.css",
+    "main.js": "/testCesar/static/js/main.28bb6974.chunk.js",
+    "main.js.map": "/testCesar/static/js/main.28bb6974.chunk.js.map",
+    "runtime-main.js": "/testCesar/static/js/runtime-main.f8ac098f.js",
+    "runtime-main.js.map": "/testCesar/static/js/runtime-main.f8ac098f.js.map",
+    "static/js/2.2d50dabc.chunk.js": "/testCesar/static/js/2.2d50dabc.chunk.js",
+    "static/js/2.2d50dabc.chunk.js.map": "/testCesar/static/js/2.2d50dabc.chunk.js.map",
+    "index.html": "/testCesar/index.html",
+    "precache-manifest.1ed01de3b1df7a43643b0c2e76fff8fa.js": "/testCesar/precache-manifest.1ed01de3b1df7a43643b0c2e76fff8fa.js",
+    "service-worker.js": "/testCesar/service-worker.js",
+    "static/css/main.e2904489.chunk.css.map": "/testCesar/static/css/main.e2904489.chunk.css.map",
+    "static/js/2.2d50dabc.chunk.js.LICENSE.txt": "/testCesar/static/js/2.2d50dabc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8ac098f.js",
+    "static/js/2.2d50dabc.chunk.js",
+    "static/css/main.e2904489.chunk.css",
+    "static/js/main.28bb6974.chunk.js"
+  ]
+}
